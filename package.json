@@ -1,0 +1,7 @@
+{
+	"name": "@atomicsmash/atomic-smash-user-roles",
+	"type": "module",
+	"private": true,
+	"description": "Add dependencies to be distributed with the plugin here.",
+	"version": "0.1.0"
+}

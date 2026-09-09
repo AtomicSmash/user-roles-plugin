@@ -1,0 +1,5 @@
+{
+	"name": "atomicsmash/user-roles",
+	"description": "This sets up a special type of user specifically for our clients.",
+	"type": "wordpress-plugin"
+}
