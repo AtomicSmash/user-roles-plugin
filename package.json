@@ -3,5 +3,5 @@
 	"type": "module",
 	"private": true,
 	"description": "Add dependencies to be distributed with the plugin here.",
-	"version": "0.1.0"
+	"version": "0.2.0"
 }
